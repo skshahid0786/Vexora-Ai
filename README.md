@@ -1,1 +1,1 @@
-# Cognify
+# Vexora-Ai
